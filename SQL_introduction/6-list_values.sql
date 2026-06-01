@@ -1,1 +1,2 @@
-select * from first_table;
+-- List all rows from first_table
+SELECT * FROM first_table;
